@@ -1,6 +1,5 @@
 # URL-based Phishing Detection using the Entropy of Non-alphanumeric Characters
-Phishing URL Detection
---using Lexical Features
+Phishing URL Detection--using Lexical Features
 
 <!---
 ESDAUNG/ESDAUNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
